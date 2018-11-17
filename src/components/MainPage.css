@@ -1,0 +1,15 @@
+.mainPage {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73ad21;
+  padding: 10px;
+}
+
+.imageEintakter {
+  /*width: 800px;*/
+  height: 600px;
+}
+
+.header {
+  color: brown;
+}
